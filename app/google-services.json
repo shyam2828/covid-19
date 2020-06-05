@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161770259997",
+    "firebase_url": "https://test-covid-d840f.firebaseio.com",
+    "project_id": "test-covid-d840f",
+    "storage_bucket": "test-covid-d840f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161770259997:android:09840bd063b3be54c9a8f4",
+        "android_client_info": {
+          "package_name": "com.example.test_covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161770259997-v9772idhfoffndkev8nepk6igh7pjub4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQG89b7xc41dph2f1CqQ5fnnPL_9KXFX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161770259997-v9772idhfoffndkev8nepk6igh7pjub4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
